@@ -1,0 +1,80 @@
+body{
+  background-color: #E9ECEF;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+
+.jumbotron{
+  text-align: center;
+}
+
+
+.navbar-dark .navbar-brand{
+  color: #2c90be;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+  color: #21819e;
+}
+
+li {
+  
+  list-style-position: inside;
+}
+
+.display-4{
+  margin-bottom: 30px;
+}
+
+.products{
+  background-color: #fff;
+  padding: 15px 15px;
+}
+
+.products-header{
+  text-align: center;
+  color: #8d4e63;
+  padding-top: 15px;
+
+}
+
+.product-link{
+  color: #47e97d;
+}
+
+.product-link:hover{
+  color: #a80c26;
+}
+
+
+.btn-primary{
+  background-color: #848d4e;
+  border-color: #7a8d4e;
+}
+
+.btn-primary:hover{
+  background-color: #A4BE7B;
+  border-color: #A4BE7B;
+}
+
+
+
+h3{
+  font-size: 20px;
+  margin-top: 25px;
+  height: 50px;
+  color: #a80c0c;
+}
+
+.card-title{
+  text-align: center;
+  color: #5F8D4E;
+}
+
+.text-muted{
+  color: #5F8D4E!important;
+}
+
+.card{
+  background-color: #E9ECEF;
+}
